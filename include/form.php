@@ -37,7 +37,7 @@ $toemails[] = array(
 ---------------------------------------------------*/
 
 $fromemail = array(
-				'email' => 'no-reply@nexzenit.com', // Company's Email Address (preferably currently used Domain Name)
+				'email' => 'nexzensoftware@gmail.com', // Company's Email Address (preferably currently used Domain Name)
 				'name' => 'NexZen IT' // Company Name
 			);
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1922166b-8b2b-41da-880f-4684706fc2cb" name="Default" comment="">
+    <list default="true" id="1922166b-8b2b-41da-880f-4684706fc2cb" name="Default" comment="Adding mail functionality">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/include/form.php" afterPath="$PROJECT_DIR$/include/form.php" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="136" column="18" lean-forward="true" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="841" column="79" lean-forward="false" selection-start-line="841" selection-start-column="79" selection-end-line="841" selection-end-column="79" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/include/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="665">
+              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,6 +78,7 @@
       <find>web design</find>
       <find>feature-box</find>
       <find>https://coronanepal.live/embed/</find>
+      <find>shyam</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -183,7 +184,7 @@
       <updated>1610419431272</updated>
       <workItem from="1610419432468" duration="14419000" />
       <workItem from="1610517124408" duration="2058000" />
-      <workItem from="1610843104025" duration="76000" />
+      <workItem from="1610843104025" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="Adding cname">
       <created>1610517209859</created>
@@ -206,11 +207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610675372641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding mail functionality">
+      <created>1610843193153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610843193153</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16553000" />
+    <option name="totallyTimeSpent" value="16883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="993" extended-state="6" />
@@ -245,7 +253,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding cname" />
     <MESSAGE value="Merge branch 'main' of https://github.com/sedai77/nexzen into main&#10;&#10;# Conflicts:&#10;#&#9;CNAME" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/sedai77/nexzen into main&#10;&#10;# Conflicts:&#10;#&#9;CNAME" />
+    <MESSAGE value="Adding mail functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding mail functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -333,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="136" column="18" lean-forward="true" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="18" />
+        <state relative-caret-position="272">
+          <caret line="841" column="79" lean-forward="false" selection-start-line="841" selection-start-column="79" selection-end-line="841" selection-end-column="79" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -346,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/include/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="665">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding />
         </state>
       </provider>
