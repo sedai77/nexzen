@@ -153,6 +153,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 		reCaptcha
 	---------------------------------------------------*/
 
+/*-------------------------------------------------
 	if( isset( $submits['g-recaptcha-response'] ) ) {
 
 		$recaptcha_data = array(
@@ -175,6 +176,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 			exit;
 		}
 	}
+	---------------------------------------------------*/
 
 	$template	= !empty( $submits['template'] ) ? $submits['template'] : 'html';
 	$html_title	= !empty( $submits['html_title'] ) ? $submits['html_title'] : 'Form Response';
@@ -206,7 +208,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 	$ar_footer	= !empty( $submits['ar_footer'] ) ? $submits['ar_footer'] : 'Copyrights &copy; ' . date('Y') . ' <strong>SemiColonWeb</strong>. All Rights Reserved.';
 
-	$mail->Subject = !empty( $submits['subject'] ) ? $submits['subject'] : 'Form Response from your Website';
+	$mail->Subject = !empty( $submits['template-contactform-subject'] ) ? $submits['template-contactform-subject'] : 'Form Response from your Website';
 	$mail->SetFrom( $fromemail['email'] , $fromemail['name'] );
 
 	if( !empty( $replyto ) ) {
