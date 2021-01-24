@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1922166b-8b2b-41da-880f-4684706fc2cb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/include/form.php" afterPath="$PROJECT_DIR$/include/form.php" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,24 +17,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="631">
+              <caret line="83" column="6" lean-forward="false" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="subscribe.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/subscribe.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coming-soon.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coming-soon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
-              <folding>
-                <marker date="1611439520474" expanded="false" signature="3012:3028" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -79,10 +77,10 @@
         <option value="$PROJECT_DIR$/op-parallax.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/include/form.php" />
         <option value="$PROJECT_DIR$/coming-soon-3.html" />
         <option value="$PROJECT_DIR$/coming-soon.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -171,7 +169,7 @@
       <updated>1610419431272</updated>
       <workItem from="1610419432468" duration="14419000" />
       <workItem from="1610517124408" duration="2058000" />
-      <workItem from="1610843104025" duration="3206000" />
+      <workItem from="1610843104025" duration="5787000" />
     </task>
     <task id="LOCAL-00001" summary="Adding cname">
       <created>1610517209859</created>
@@ -208,11 +206,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610843526437</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding coming soon page">
+      <created>1611439619158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611439619158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19683000" />
+    <option name="totallyTimeSpent" value="22264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="993" extended-state="6" />
@@ -224,7 +229,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12430633" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12219731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12219731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -248,7 +253,8 @@
     <MESSAGE value="Adding cname" />
     <MESSAGE value="Merge branch 'main' of https://github.com/sedai77/nexzen into main&#10;&#10;# Conflicts:&#10;#&#9;CNAME" />
     <MESSAGE value="Adding mail functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding mail functionality" />
+    <MESSAGE value="Adding coming soon page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding coming soon page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -350,19 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="760" column="91" lean-forward="false" selection-start-line="760" selection-start-column="63" selection-end-line="760" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#2;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/include/form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-195">
@@ -379,6 +372,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/coming-soon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="64" column="45" lean-forward="true" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <marker date="1611439520474" expanded="false" signature="3012:3028" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/include/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -387,13 +390,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coming-soon.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
-          <folding>
-            <marker date="1611439520474" expanded="false" signature="3012:3028" ph="..." />
-          </folding>
+        <state relative-caret-position="631">
+          <caret line="83" column="6" lean-forward="false" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
